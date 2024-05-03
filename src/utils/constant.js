@@ -19,4 +19,4 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "french", name: "French" },
 ];
 
-export const OPEN_AI_KEY = process.env.OPEN_AI_KEY;
+export const KEY = process.env.KEY;
